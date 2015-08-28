@@ -18,7 +18,7 @@
                 else {
                     offset = '-=' + Math.abs(offset);
                 }
-                list.animate({'left': offset}, 300, function () {
+                list.animate({'left': offset}, 1000, function () {
                     if(left > -1366){
                         list.css('left', -1366 * len);
                     }
