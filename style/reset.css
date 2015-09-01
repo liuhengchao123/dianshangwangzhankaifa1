@@ -11,7 +11,5 @@ a{text-decoration:none; color:#656565;}
 /*清浮动*/
 .clearfix:after{content:"";display:block;clear:both;}
 .clearfix{zoom:1;}
-.fl{float:left;}
-.fr{float:right;}
 
 
